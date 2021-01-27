@@ -1,0 +1,4 @@
+requests
+requests_html
+urllib3
+rich
